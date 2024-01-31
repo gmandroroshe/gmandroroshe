@@ -1,5 +1,3 @@
-
-<center>
 ## Hey there! 👋 I'm Kavindu Maduranga
 ### Education 📚
 - **Higher National Diploma (HND) in Software Engineering**
@@ -8,7 +6,6 @@
 - **Diploma in Computing**
   - *Esoft Metro College Kaluthara*
   - Completed: 2023
-</center>
 ### Contact 📬
 - **Email:** kavindumadurangaaponsu@gmail.com
 
