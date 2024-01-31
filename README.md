@@ -8,12 +8,6 @@
   - Completed: 2023
 ### Contact 📬
 - **Email:** kavindumadurangaaponsu@gmail.com
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kavindu-maduranga-95a195280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavindu-maduranga-95a195280/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100073644653234&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100073644653234&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/k.m.aponsu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/k.m.aponsu_/" height="30" width="40" /></a>
-</p>
-
 
 <p align="left">
 </p>
