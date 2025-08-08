@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Kavindu Maduranga</h1>
-<h3 align="center">I am a dedicated software engineering student with a passion for coding and problem-solving. Currently pursuing my Higher National Diploma at Esoft Metro College Kaluthara, I am expected to graduate in 2024. My journey in computing began with a Diploma in Computing, which I successfully completed in 2023.</h3>
+<h3 align="center"></h3>
 
 
 <h3 align="center">My Statistics:</h3>
